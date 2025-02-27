@@ -1,11 +1,7 @@
 # finetune-GRPO-Llama3.1_8B
+
 PPO
-
-[![Uploading image.png…]()](https://github.com/JoeRachel/finetune-GRPO-Llama3.1_8B/blob/main/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250227154515.png)
-
-
 At is the advantage based on the on the rewards {𝑟≥𝑡} and a learned value function 𝑉
-
 ---
 
 GRPO
